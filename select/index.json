@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ミッドナイト・リフレクション",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-17T00:39:25.686036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミッドナイト・リフレクション",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": true,
+      "path": "select/01_ミッドナイト・リフレクション_NOMELON_NOLEMON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミッドナイト・リフレクション",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_ミッドナイト・リフレクション_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
